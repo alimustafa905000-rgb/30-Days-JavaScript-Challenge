@@ -1,4 +1,3 @@
-To-Do App
 
 A simple and interactive To-Do List Application built using HTML, CSS, and JavaScript.
 This project is part of my 30 Days JavaScript Challenge (Day 3).
