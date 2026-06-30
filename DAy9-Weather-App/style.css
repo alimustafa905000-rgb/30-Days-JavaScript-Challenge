@@ -21,6 +21,13 @@ input {
 }
 
 button {
+    margin-top: 1.5rem;
+
     padding: 10px 20px;
     cursor: pointer;
+}
+buton:hover{
+    border: 3px solid black;
+    background: #000;
+    color: white;
 }
